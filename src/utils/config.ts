@@ -28,10 +28,11 @@ export const readConfigFile = async () => {
       return JSON5.parse(config);
     } catch (parseError) {
       console.error(`Failed to parse config file at ${CONFIG_FILE}`);
-      console.error("Please check your config file syntax.");
       process.exit(1);
     }
   } catch (readError: any) {
+      // default config
+      await fs.writeFile(CONFIG_FILE, `${JSON.stringify(DEFAULT_CONFIG, null, 2)}`);
       //console.error(`Failed to read config file at ${CONFIG_FILE}`);
       console.error("Error details:", readError.message);
       process.exit(1);
