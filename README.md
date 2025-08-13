@@ -42,7 +42,7 @@ Create a configuration file `~/.rack-cli/config.json`:
 {
   "api_url": "https://openrouter.ai/api/v1",
   "api_key": "sk-xxx",
-  "model": "claude-sonnet-4"
+  "model": "claude-4-sonnet"
 }
 ```
 
