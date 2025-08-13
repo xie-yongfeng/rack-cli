@@ -1,4 +1,4 @@
-# rack-cLI
+# Rack-CLI
 
 [中文版](README_zh.md)
 

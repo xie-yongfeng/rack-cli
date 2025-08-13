@@ -1,4 +1,4 @@
-# rack-cLI
+# Rack-CLI
 
 > 集成目前主流的LLM CLI工具，统一配置，支持LLM CLI工具的快速安装、配置和启动。
 
