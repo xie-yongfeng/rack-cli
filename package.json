@@ -1,7 +1,7 @@
 {
   "name": "@xieyongfeng/rack-cli",
-  "version": "1.0.0",
-  "description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+  "version": "1.0.1",
+  "description": "An integrated mainstream LLM CLI tool manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI tools.",
   "bin": {
     "rack": "./dist/rack.js"
   },
@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "json5": "^2.2.3",
+    "node": "^22.18.0",
     "pnpm": "^10.14.0"
   },
   "devDependencies": {
