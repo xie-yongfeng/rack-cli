@@ -9,12 +9,12 @@
 
 ## 📦 Supported CLI Tools
 
-| CLI Tool | Command | NPM Package | Description |
+| CLI Tool | Command | GitHub | Description |
 |----------|---------|-------------|-------------|
-| Claude Code | `rack claude` | @anthropic-ai/claude-code, @musistudio/claude-code-router | claude-code, Powerful claude-code-router request router proxy |
-| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | Command-line tool for iFlow AI |
-| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | Qwen code assistant |
-| Easy LLM CLI | `rack elc` | easy-llm-cli | Simple LLM command-line tool |
+| Claude Code | `rack claude` | ![@anthropic-ai/claude-code](https://github.com/anthropic-ai/claude-code), ![@musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | claude-code, Powerful claude-code-router request router proxy |
+| iFlow CLI | `rack iflow` | ![@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) | Command-line tool for iFlow AI |
+| Qwen Code | `rack qwen` | ![@qwen-code/qwen-code@latest](https://github.com/qwen-code/qwen-code) | Qwen code assistant |
+| Easy LLM CLI | `rack elc` | ![@ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli) | Simple LLM command-line tool |
 
 ## ✨ Features
 
