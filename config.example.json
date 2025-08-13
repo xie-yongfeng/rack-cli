@@ -1,0 +1,5 @@
+{
+  "api_url": "https://openrouter.ai/api/v1",
+  "api_key": "sk-xxx",
+  "model": "claude-4-sonnet"
+}

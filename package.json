@@ -1,0 +1,39 @@
+{
+  "name": "@xieyongfeng/rack-cli",
+  "version": "1.0.0",
+  "description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+  "bin": {
+    "rack": "./dist/rack.js"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "release": "npm run build && npm publish"
+  },
+  "keywords": [
+    "claude",
+    "iflow",
+    "easy-llm-cli",
+    "cli",
+    "llm",
+    "qwen"
+  ],
+  "author": "xieyongfeng",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.2.3",
+    "pnpm": "^10.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "esbuild": "^0.25.1",
+    "shx": "^0.4.0",
+    "typescript": "^5.8.2"
+  },
+  "publishConfig": {
+    "ignore": [
+      "!build/",
+      "src/",
+      "screenshots/"
+    ]
+  }
+}
