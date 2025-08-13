@@ -18,6 +18,7 @@ export class EasyLLMCli extends BaseLLMCli {
   start(args: string[] = []): void {
     const env = {
       ...process.env,
+      USE_CUSTOM_LLM: true, 
       CUSTOM_LLM_PROVIDER: "openai",
       CUSTOM_LLM_API_KEY: this.easyConfig.api_key,
       CUSTOM_LLM_ENDPOINT: this.easyConfig.api_url,
