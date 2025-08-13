@@ -4,6 +4,15 @@
 
 > An integrated mainstream LLM CLI tool manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI tools.
 
+## 📦 Supported CLI Tools
+
+| CLI Tool | Command | NPM Package | Description |
+|----------|---------|-------------|-------------|
+| Claude Code Router | `rack claude` | @musistudio/claude-code-router | Powerful Claude Code request router proxy |
+| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | Command-line tool for iFlow AI |
+| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | Qwen code assistant |
+| Easy LLM CLI | `rack elc` | easy-llm-cli | Simple LLM command-line tool |
+
 ## ✨ Features
 
 -   **Unified Entry**: Manage and launch multiple LLM CLI tools through a single `rack` command
@@ -53,15 +62,6 @@ rack iflow     # Launch iFlow CLI
 rack qwen      # Launch Qwen Code
 rack elc       # Launch Easy LLM CLI
 ```
-
-## 📦 Supported CLI Tools
-
-| CLI Tool | Command | NPM Package | Description |
-|----------|---------|-------------|-------------|
-| Claude Code Router | `rack claude` | @musistudio/claude-code-router | Powerful Claude Code request router proxy |
-| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | Command-line tool for iFlow AI |
-| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | Qwen code assistant |
-| Easy LLM CLI | `rack elc` | easy-llm-cli | Simple LLM command-line tool |
 
 ## Project Structure
 

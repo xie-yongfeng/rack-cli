@@ -2,6 +2,15 @@
 
 > 集成目前主流的LLM CLI工具，统一配置，支持LLM CLI工具的快速安装、配置和启动。
 
+## 📦 支持的CLI工具
+
+| CLI工具 | 命令 | NPM包 | 描述 |
+|---------|------|-------|------|
+| Claude Code Router | `rack claude` | @musistudio/claude-code-router | 通过强大的Claude Code请求路由器代理 |
+| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | iFlow AI的命令行工具 |
+| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | 通义千问代码助手 |
+| Easy LLM CLI | `rack elc` | easy-llm-cli | 简易LLM命令行工具 |
+
 ## ✨ 功能特性
 
 -   **统一入口**: 通过单一命令`rack`管理和启动多个LLM CLI工具
@@ -51,15 +60,6 @@ rack iflow     # 启动 iFlow CLI
 rack qwen      # 启动 Qwen Code
 rack elc       # 启动 Easy LLM CLI
 ```
-
-## 📦 支持的CLI工具
-
-| CLI工具 | 命令 | NPM包 | 描述 |
-|---------|------|-------|------|
-| Claude Code Router | `rack claude` | @musistudio/claude-code-router | 通过强大的Claude Code请求路由器代理 |
-| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | iFlow AI的命令行工具 |
-| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | 通义千问代码助手 |
-| Easy LLM CLI | `rack elc` | easy-llm-cli | 简易LLM命令行工具 |
 
 ## 项目结构
 
