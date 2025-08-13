@@ -6,7 +6,7 @@
 
 | CLI工具 | 命令 | NPM包 | 描述 |
 |---------|------|-------|------|
-| Claude Code Router | `rack claude` | @musistudio/claude-code-router | 通过强大的Claude Code请求路由器代理 |
+| Claude Code | `rack claude` | @musistudio/claude-code-router | claude-code，通过强大的Claude Code请求路由器代理 |
 | iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | iFlow AI的命令行工具 |
 | Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | 通义千问代码助手 |
 | Easy LLM CLI | `rack elc` | easy-llm-cli | 简易LLM命令行工具 |

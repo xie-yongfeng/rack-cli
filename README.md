@@ -8,7 +8,7 @@
 
 | CLI Tool | Command | NPM Package | Description |
 |----------|---------|-------------|-------------|
-| Claude Code Router | `rack claude` | @musistudio/claude-code-router | Powerful Claude Code request router proxy |
+| Claude Code | `rack claude` | @musistudio/claude-code-router | claude-code, Powerful Claude Code request router proxy |
 | iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | Command-line tool for iFlow AI |
 | Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | Qwen code assistant |
 | Easy LLM CLI | `rack elc` | easy-llm-cli | Simple LLM command-line tool |
