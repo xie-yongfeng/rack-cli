@@ -2,6 +2,9 @@
 
 > 集成目前主流的LLM CLI工具，统一配置，支持LLM CLI工具的快速安装、配置和启动。
 
+![8月13日](https://github.com/user-attachments/assets/f53a35e6-7353-43cf-91d2-6960b6009e9d)
+![8月13日(1)](https://github.com/user-attachments/assets/1c7ef29e-b7c3-4311-90c7-d4cf41418262)
+
 ## 📦 支持的CLI工具
 
 | CLI工具 | 命令 | NPM包 | 描述 |
