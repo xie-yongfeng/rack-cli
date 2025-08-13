@@ -2,7 +2,7 @@
 
 [中文版](README_zh.md)
 
-> An integrated mainstream LLM CLI tool manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI tools.
+> An integrated mainstream LLM CLI Agent manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI tools.
 
 ![8月13日](https://github.com/user-attachments/assets/1838c0cd-182e-4bfc-9de7-733dcabb77b8)
 ![8月13日(1)](https://github.com/user-attachments/assets/df35a934-f0e4-4ad7-91de-9fdcdc0a9468)
