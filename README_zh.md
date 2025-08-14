@@ -7,12 +7,12 @@
 
 ## 📦 支持的CLI工具
 
-| CLI工具 | 命令 | NPM包 | 描述 |
+| CLI工具 | 命令 | GitHub | 描述 |
 |---------|------|-------|------|
-| Claude Code | `rack claude` | @anthropic-ai/claude-code, @musistudio/claude-code-router | claude-code，通过强大的claude-code-router请求路由器代理 |
-| iFlow CLI | `rack iflow` | @iflow-ai/iflow-cli | iFlow AI的命令行工具 |
-| Qwen Code | `rack qwen` | @qwen-code/qwen-code@latest | 通义千问代码助手 |
-| Easy LLM CLI | `rack elc` | easy-llm-cli | 简易LLM命令行工具 |
+| Claude Code | `rack claude` | [@anthropic-ai/claude-code](https://github.com/anthropic-ai/claude-code), [@musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | claude-code，通过强大的claude-code-router请求路由器代理 |
+| iFlow CLI | `rack iflow` | [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) | iFlow AI的命令行工具 |
+| Qwen Code | `rack qwen` | [@qwen-code/qwen-code](https://github.com/qwen-code/qwen-code) | 通义千问代码助手 |
+| Easy LLM CLI | `rack elc` | [@ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli)| 简易LLM命令行工具 |
 
 ## ✨ 功能特性
 
