@@ -2,8 +2,8 @@
 
 > 集成目前主流的LLM CLI Agent工具，统一配置，支持快速安装、配置、启动。
 
-![8月13日](https://github.com/user-attachments/assets/f53a35e6-7353-43cf-91d2-6960b6009e9d)
-![8月13日(1)](https://github.com/user-attachments/assets/1c7ef29e-b7c3-4311-90c7-d4cf41418262)
+![Claude Code](https://github.com/user-attachments/assets/f53a35e6-7353-43cf-91d2-6960b6009e9d)
+![Qwen Code](https://github.com/user-attachments/assets/1c7ef29e-b7c3-4311-90c7-d4cf41418262)
 
 ## 📦 支持的CLI Agent工具
 
