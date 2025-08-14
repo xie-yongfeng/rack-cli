@@ -2,14 +2,14 @@
 
 [中文版](README_zh.md)
 
-> An integrated mainstream LLM CLI Tools manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI Tools.
+> An integrated mainstream LLM CLI Agent Tools manager with unified configuration, supporting quick installation, configuration, and launching of LLM CLI Agent Tools.
 
 ![8月13日](https://github.com/user-attachments/assets/1838c0cd-182e-4bfc-9de7-733dcabb77b8)
 ![8月13日(1)](https://github.com/user-attachments/assets/df35a934-f0e4-4ad7-91de-9fdcdc0a9468)
 
-## 📦 Supported CLI Tools
+## 📦 Supported CLI Agent Tools
 
-| CLI Tool | Command | GitHub | Description |
+| CLI Agent Tool | Command | GitHub | Description |
 |----------|---------|-------------|-------------|
 | Claude Code | `rack claude` | [@anthropic-ai/claude-code](https://github.com/anthropic-ai/claude-code), [@musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | claude-code, Powerful claude-code-router request router proxy |
 | iFlow CLI | `rack iflow` | [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) | Command-line tool for iFlow AI |
